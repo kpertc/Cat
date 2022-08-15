@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d75fc3bf89014ee99229b52c4ce5ed8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: c7505f272eaf7415aa8c898fbb69dde8, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Cat/catEye.sbsar
