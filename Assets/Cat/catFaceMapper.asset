@@ -58,7 +58,7 @@ MonoBehaviour:
             m_PreInfinity: 2
             m_PostInfinity: 2
             m_RotationOrder: 4
-      m_IsExpanded: 0
+      m_IsExpanded: 1
     - m_Location: 8
       m_ShapeIndex: 6
       m_Config:
@@ -614,5 +614,5 @@ MonoBehaviour:
   m_EyeSmoothing: 0.1
   m_HeadPosition: Cat.001
   m_HeadRotation: Cat.001/Chest/Neck/Head
-  m_HeadSmoothing: 0.1
+  m_HeadSmoothing: 0.4
   m_BlendShapeSmoothing: 0.1
